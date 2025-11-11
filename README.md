@@ -1,10 +1,20 @@
-<h1>Active Directory Lab</h1>
+<h1>Azure Virtual Machine Lab</h1>
 
  ### [YouTube Demonstration](https://youtu.be/)
 
-<h2>Description</h2>
-The project involves creating a Virtual Machine without a public IP, establishing a connection, resetting the password credentials, starting/stopping VM instance, and deleting the VM, all within the Azure workspace.
-<br />
+## 🧠 Project Description
+
+### 🔒 Key Features
+- **Private VM Setup:** Deploy a VM without assigning a public IP address for enhanced security.  
+- **Secure Connectivity:** Establish a private network connection to safely access and manage the VM.  
+- **Access Management:** Reset and control VM credentials to manage user access securely.  
+- **Lifecycle Operations:** Start and stop the VM instance directly from the Azure portal or workspace.  
+- **Resource Cleanup:** Efficiently delete the VM and related resources to minimize costs and clutter.  
+
+---
+
+> 💡 *This project demonstrates secure Azure infrastructure management using private networking, ideal for cloud administrators and cybersecurity learners.*
+
 
 
 <h2>Languages and Utilities Used</h2>
