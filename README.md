@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+The project involves creating a Virtual Machine without a public IP, establishing a connection, resetting the password credentials, starting/stopping VM instance, and deleting the VM, all within the Azure workspace.
 <br />
 
 
